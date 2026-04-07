@@ -9,7 +9,7 @@ Servidor web básico con **Node.js** y **Express** como proyecto de aprendizaje.
 ## Correr localmente
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone git@github.com:hjdealbaedu/servidor_node.git
 cd servidor_node
 npm install
 npm run dev
